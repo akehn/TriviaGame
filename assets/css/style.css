@@ -1,0 +1,50 @@
+body {
+    font-family: 'Mouse Memoirs', sans-serif;
+}
+
+.jumbotron {
+    padding-bottom: 0;
+    padding-top: 0;
+    /* background-image: url('../../assets/images/header2.jpg');
+    background-position-y: no-repeat; */
+}
+
+img {
+    width: 550px;
+    height: 350px;
+}
+
+#instructions {
+font-size: 40px;
+}
+
+#choice {
+    font-size: 30px;
+    padding: 5px 10px;
+    margin: 5px 10px;
+}
+
+h1 {
+font-size: 60px;
+margin: 35px;
+}
+
+p {
+    font-size: 40px;
+}
+
+.btn .badge {
+    padding: 7px 20px 7px 20px;
+    font-size: 35px;
+    border-radius: 20px;
+    top: -4px;
+}
+
+.btn-primary {
+    font-size: 40px;
+}
+
+.btn-group-sm>.btn {
+    padding-left: 15px;
+    padding-right: 15px;
+}
